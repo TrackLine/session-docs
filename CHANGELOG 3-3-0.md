@@ -1,4 +1,4 @@
-# Changelog версии 3.3.0
+# Changelog версии session 3.3.0
 
 ## Телеграм бот
 
